@@ -2,7 +2,7 @@
 
 /*!
  * ex_03.php
- * http://vaticancatholic.com/
+ * https://vaticancatholic.com/
  * Version: 1.0.0
  *
  * All rights reserved © 2000-2022 Most Holy Family Monastery | vaticancatholic.com
